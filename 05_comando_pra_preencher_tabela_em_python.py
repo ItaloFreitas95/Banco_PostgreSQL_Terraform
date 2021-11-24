@@ -18,7 +18,7 @@ conn = psycopg2.connect(
 cursor = conn.cursor()
 
 
-for numero in range(0, 25000):
+for numero in range(0, 250000):
     cursor.execute("insert into tipos_conta_cliente (tipo_conta) values ('pf_poupança'), ('pf_corrente'), ('pj_poupança'), ('pj_corrente')")
 
 conn.commit()
