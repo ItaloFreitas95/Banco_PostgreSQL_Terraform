@@ -1,0 +1,4 @@
+* o código precisa ser rodado de acordo com a numeração.
+* fiz em python o insert de um milhão de linhas, a tabela é ineficaz e fiz assim só pra cumprir o requisito.
+* algums pontos do desafio ainda não tenho total domínio.
+* ao final a instância do banco de dados eu deixo privada.
