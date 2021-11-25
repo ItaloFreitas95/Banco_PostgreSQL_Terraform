@@ -1,3 +1,4 @@
+* para conectar o banco de dados no python é necessário mudar o host para o endpoint que aparece no AWS.
 * o código precisa ser rodado de acordo com a numeração.
 * fiz em python o insert de um milhão de linhas, a tabela é ineficaz e fiz assim só pra cumprir o requisito.
 * algums pontos do desafio ainda não tenho total domínio.
